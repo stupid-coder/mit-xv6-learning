@@ -10,3 +10,6 @@
 * 参考书
   [[file:books/MIT6_828F12_xv6-book-rev7.pdf][课程教材]]
 
+* 课程来源
+  + [[https://pdos.csail.mit.edu/6.828/2017/index.html][mit课程地址]]
+  + [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/index.htm][mit开源课程地址]]
