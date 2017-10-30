@@ -1,0 +1,8 @@
+#+TITLE: 学习 mit-xv6 笔记
+
+* 目录说明
+  schedule 为跟着[[https://pdos.csail.mit.edu/6.828/2017/schedule.html][mit 6.828]]的学习笔记！
+
+* 参考书
+  [[file:books/MIT6_828F12_xv6-book-rev7.pdf][课程教材]]
+
