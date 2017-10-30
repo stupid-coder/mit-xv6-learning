@@ -1,0 +1,6 @@
+#+TITLE: xv6 LEC-1 学习笔记
+#+AUTHOR: stupid-coder
+
+
+
+* 
